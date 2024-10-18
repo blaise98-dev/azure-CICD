@@ -1,0 +1,2 @@
+# azure-CICD
+Deployment setup
