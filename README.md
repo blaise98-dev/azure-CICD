@@ -1,10 +1,4 @@
 # AZURE-CICD-Deployment-with-Github-Actions
-
-## Save pass:
-
-vPR02UVhwBnoqxQ3bOhxAqqQ0ZqdKwDOUnllP4LK1s+ACRCeZfew
-
-
 ## Run from terminal:
 
 docker build -t flasksimpleapp.azurecr.io/mltest:latest .
